@@ -1,0 +1,62 @@
+INFO: 1.1 - Каталог: .git | Флаг каталога: True | Главный каталог: HW_deep_Python
+INFO: 1.2 - Каталог: .idea | Флаг каталога: True | Главный каталог: HW_deep_Python
+INFO: 1.3 - Каталог: hw | Флаг каталога: True | Главный каталог: HW_deep_Python
+INFO: 1.4 - Файл: home_task | Расширение: py | Главный каталог: HW_deep_Python
+INFO: 1.5 - Файл: README | Расширение: md | Главный каталог: HW_deep_Python
+INFO: 1.6 - Файл: task_4 | Расширение: py | Главный каталог: HW_deep_Python
+INFO: 2.1 - Каталог: fsmonitor--daemon | Флаг каталога: True | Главный каталог: .git
+INFO: 2.2 - Каталог: hooks | Флаг каталога: True | Главный каталог: .git
+INFO: 2.3 - Каталог: info | Флаг каталога: True | Главный каталог: .git
+INFO: 2.4 - Каталог: logs | Флаг каталога: True | Главный каталог: .git
+INFO: 2.5 - Каталог: objects | Флаг каталога: True | Главный каталог: .git
+INFO: 2.6 - Каталог: refs | Флаг каталога: True | Главный каталог: .git
+INFO: 2.7 - Файл:  | Расширение: config | Главный каталог: .git
+INFO: 2.8 - Файл:  | Расширение: description | Главный каталог: .git
+INFO: 2.9 - Файл:  | Расширение: HEAD | Главный каталог: .git
+INFO: 2.10 - Файл:  | Расширение: index | Главный каталог: .git
+INFO: 2.11 - Файл:  | Расширение: packed-refs | Главный каталог: .git
+INFO: 3.1 - Каталог: cookies | Флаг каталога: True | Главный каталог: fsmonitor--daemon
+INFO: 5.1 - Файл: applypatch-msg | Расширение: sample | Главный каталог: hooks
+INFO: 5.2 - Файл: commit-msg | Расширение: sample | Главный каталог: hooks
+INFO: 5.3 - Файл: fsmonitor-watchman | Расширение: sample | Главный каталог: hooks
+INFO: 5.4 - Файл: post-update | Расширение: sample | Главный каталог: hooks
+INFO: 5.5 - Файл: pre-applypatch | Расширение: sample | Главный каталог: hooks
+INFO: 5.6 - Файл: pre-commit | Расширение: sample | Главный каталог: hooks
+INFO: 5.7 - Файл: pre-merge-commit | Расширение: sample | Главный каталог: hooks
+INFO: 5.8 - Файл: pre-push | Расширение: sample | Главный каталог: hooks
+INFO: 5.9 - Файл: pre-rebase | Расширение: sample | Главный каталог: hooks
+INFO: 5.10 - Файл: pre-receive | Расширение: sample | Главный каталог: hooks
+INFO: 5.11 - Файл: prepare-commit-msg | Расширение: sample | Главный каталог: hooks
+INFO: 5.12 - Файл: push-to-checkout | Расширение: sample | Главный каталог: hooks
+INFO: 5.13 - Файл: sendemail-validate | Расширение: sample | Главный каталог: hooks
+INFO: 5.14 - Файл: update | Расширение: sample | Главный каталог: hooks
+INFO: 6.1 - Файл:  | Расширение: exclude | Главный каталог: info
+INFO: 7.1 - Каталог: refs | Флаг каталога: True | Главный каталог: logs
+INFO: 7.2 - Файл:  | Расширение: HEAD | Главный каталог: logs
+INFO: 8.1 - Каталог: heads | Флаг каталога: True | Главный каталог: refs
+INFO: 8.2 - Каталог: remotes | Флаг каталога: True | Главный каталог: refs
+INFO: 9.1 - Файл:  | Расширение: main | Главный каталог: heads
+INFO: 10.1 - Каталог: origin | Флаг каталога: True | Главный каталог: remotes
+INFO: 11.1 - Файл:  | Расширение: HEAD | Главный каталог: origin
+INFO: 12.1 - Каталог: e6 | Флаг каталога: True | Главный каталог: objects
+INFO: 12.2 - Каталог: info | Флаг каталога: True | Главный каталог: objects
+INFO: 12.3 - Каталог: pack | Флаг каталога: True | Главный каталог: objects
+INFO: 13.1 - Файл:  | Расширение: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391 | Главный каталог: e6
+INFO: 15.1 - Файл: pack-4025d48cb95c223fff8baf78f116165791e12772 | Расширение: idx | Главный каталог: pack
+INFO: 15.2 - Файл: pack-4025d48cb95c223fff8baf78f116165791e12772 | Расширение: pack | Главный каталог: pack
+INFO: 15.3 - Файл: pack-4025d48cb95c223fff8baf78f116165791e12772 | Расширение: rev | Главный каталог: pack
+INFO: 16.1 - Каталог: heads | Флаг каталога: True | Главный каталог: refs
+INFO: 16.2 - Каталог: remotes | Флаг каталога: True | Главный каталог: refs
+INFO: 16.3 - Каталог: tags | Флаг каталога: True | Главный каталог: refs
+INFO: 17.1 - Файл:  | Расширение: main | Главный каталог: heads
+INFO: 18.1 - Каталог: origin | Флаг каталога: True | Главный каталог: remotes
+INFO: 19.1 - Файл:  | Расширение: HEAD | Главный каталог: origin
+INFO: 21.1 - Каталог: inspectionProfiles | Флаг каталога: True | Главный каталог: .idea
+INFO: 21.2 - Файл:  | Расширение: gitignore | Главный каталог: .idea
+INFO: 21.3 - Файл: HW_deep_Python | Расширение: iml | Главный каталог: .idea
+INFO: 21.4 - Файл: misc | Расширение: xml | Главный каталог: .idea
+INFO: 21.5 - Файл: modules | Расширение: xml | Главный каталог: .idea
+INFO: 21.6 - Файл: vcs | Расширение: xml | Главный каталог: .idea
+INFO: 21.7 - Файл: workspace | Расширение: xml | Главный каталог: .idea
+INFO: 22.1 - Файл: profiles_settings | Расширение: xml | Главный каталог: inspectionProfiles
+INFO: 23.1 - Файл: test | Расширение: txt | Главный каталог: hw
